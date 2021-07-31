@@ -69,10 +69,3 @@ All script images should be stored in ```/scripts```.
 
 ### Lesson plans
 
-## Creating a pull request
-
-Each pull request should have it's own branch. Here are a few examples of a proper pull request workflow
-
-* http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/
-* https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices
-* https://www.thinkful.com/learn/github-pull-request-tutorial/
